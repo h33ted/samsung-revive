@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- On Samsung ROMs DeviceDefault is TouchWiz (Nature UX on the S3/S4), as used by Settings. -->
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault" />
+</resources>

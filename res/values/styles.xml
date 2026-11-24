@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android 2.3 (Galaxy S2): Samsung skins the stock dark theme as TouchWiz 4. -->
+    <style name="AppTheme" parent="@android:style/Theme" />
+</resources>
